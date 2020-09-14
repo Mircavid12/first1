@@ -1,0 +1,19 @@
+@import 'variables.scss';
+
+#service{
+    p{
+        color: $text-color;
+        font-size: 1.1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        font-family: sans-serif;
+    }
+    .header{
+        padding: 70px 0;
+    }
+    i{
+        color: $icon-color;
+        font-size: 40px;
+        padding: 20px 0;
+    }
+}
